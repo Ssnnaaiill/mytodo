@@ -1,0 +1,25 @@
+{
+  "name": "mytodo",
+  "version": "1.0.0",
+  "description": "Todo-list",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ssnnaaiill/mytodo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ssnnaaiill/mytodo/issues"
+  },
+  "homepage": "https://github.com/Ssnnaaiill/mytodo#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "http": "0.0.0",
+    "stylus": "^0.54.5"
+  }
+}
